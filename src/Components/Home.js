@@ -1,12 +1,9 @@
-import React from 'react';
-import './Home.css';
+import React from "react";
+import "./Home.css";
+import QuestCard from "./QuestCard";
 
 function Home() {
-    return(
-        <div><p className="homeHeader">SAVE A LIFE</p>
-
-        </div>
-    )
+  return <QuestCard />;
 }
 
 export default Home;
