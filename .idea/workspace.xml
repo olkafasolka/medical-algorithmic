@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a048146-a2d5-44de-a068-2686b80410f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/QuestCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/StoppingHemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Walk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/FooterTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/GridMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/QuestCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/StoppingHemo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Walk.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,8 @@
       <workItem from="1561996572770" duration="3874000" />
       <workItem from="1562000479391" duration="739000" />
       <workItem from="1562056010125" duration="9610000" />
-      <workItem from="1562083021686" duration="7533000" />
+      <workItem from="1562083021686" duration="17064000" />
+      <workItem from="1562140381516" duration="6422000" />
     </task>
     <servers />
   </component>
