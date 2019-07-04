@@ -1,11 +1,12 @@
 import React from "react";
-import Container from "../Components/Container";
+
 
 export const que1 = {
   title: "BARDZO KRWAWI?",
   to: "",
   linkYes: "/sol-2",
-  linkNo: "/krok-2"
+  linkNo: "/krok-2",
+    backgroundColor: "#f98006"
 };
 export const que2 = {
   title: "CHODZI?",
@@ -13,7 +14,8 @@ export const que2 = {
   linkYes: "/sol-4",
   linkNo: "/krok-3",
   return: "/",
-  back: "/"
+  back: "/",
+    backgroundColor: "#f98006",
 };
 export const que3 = {
   title: "REAGUJE?",
@@ -21,7 +23,8 @@ export const que3 = {
   linkYes: "/sol-5",
   linkNo: "/krok-4",
   return: "/krok-2",
-  back: "/"
+  back: "/",
+    backgroundColor: "#f98006"
 };
 export const que4 = {
   title: "ODDYCHA?",
@@ -29,7 +32,8 @@ export const que4 = {
   linkYes: "/sol-3",
   linkNo: "/sol-1",
   return: "/krok-3",
-  back: "/"
+  back: "/",
+    backgroundColor: "#f98006"
 };
 
 export const bleed = {
@@ -48,7 +52,7 @@ export const resu = {
   to: "",
   linkYes: "/Hemo",
   linkNo: "/krok-5",
-  backgroundColor: "#330000",
+  backgroundColor: "black",
   fontColor: "white",
   description: "pod warunkiem, że udzieliłeś pomocy pozostałym poszkodowanym",
   return: "/krok-4",
@@ -65,9 +69,9 @@ export const save = {
 };
 
 export const help = {
-  title: "ZACHĘĆ ICH DO UDZIELANIA POMOCY INNYM",
+  title: "ZACHĘĆ DO UDZIELANIA POMOCY INNYM",
   to: "",
-  backgroundColor: "#04c804",
+  backgroundColor: "#00b300",
   fontColor: "black",
   return: "krok-2",
   back: "/"
